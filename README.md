@@ -8,3 +8,5 @@ In order to get Api Key for ".env" file, please create account on HuggingFace.
 The "requirements.txt" is the list of library essential for running this project.
 
 The "requirement.txt" is all the library install in my current system.
+
+To run the app, go to terminal and write "streamlit run app.py"
